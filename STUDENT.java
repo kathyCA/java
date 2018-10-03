@@ -35,3 +35,16 @@ System.out.println("branch:");
 s.branch();
 }
 }
+class Interface
+{
+public static void main(String[]rgs)
+{
+STUDENT S= new STUDENT();
+System.out.println("roll no:");
+S.rollno();
+System.out.println("name:");
+S.name();
+System.out.println("branch:");
+S.branch();
+}
+}
