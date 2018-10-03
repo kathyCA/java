@@ -37,7 +37,7 @@ s.branch();
 }
 class Interface
 {
-public static void main(String[]rgs)
+public static void main(String[]args)
 {
 STUDENT S= new STUDENT();
 System.out.println("roll no:");
